@@ -1,0 +1,17 @@
+C:\Users\joshd\source\repos\Glow External\bin\Debug\net8.0\Glow External.exe
+C:\Users\joshd\source\repos\Glow External\bin\Debug\net8.0\Glow External.deps.json
+C:\Users\joshd\source\repos\Glow External\bin\Debug\net8.0\Glow External.runtimeconfig.json
+C:\Users\joshd\source\repos\Glow External\bin\Debug\net8.0\Glow External.dll
+C:\Users\joshd\source\repos\Glow External\bin\Debug\net8.0\Glow External.pdb
+C:\Users\joshd\source\repos\Glow External\bin\Debug\net8.0\swed64.dll
+C:\Users\joshd\source\repos\Glow External\obj\Debug\net8.0\Glow External.csproj.AssemblyReference.cache
+C:\Users\joshd\source\repos\Glow External\obj\Debug\net8.0\Glow External.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joshd\source\repos\Glow External\obj\Debug\net8.0\Glow External.AssemblyInfoInputs.cache
+C:\Users\joshd\source\repos\Glow External\obj\Debug\net8.0\Glow External.AssemblyInfo.cs
+C:\Users\joshd\source\repos\Glow External\obj\Debug\net8.0\Glow External.csproj.CoreCompileInputs.cache
+C:\Users\joshd\source\repos\Glow External\obj\Debug\net8.0\Glow External.csproj.CopyComplete
+C:\Users\joshd\source\repos\Glow External\obj\Debug\net8.0\Glow External.dll
+C:\Users\joshd\source\repos\Glow External\obj\Debug\net8.0\refint\Glow External.dll
+C:\Users\joshd\source\repos\Glow External\obj\Debug\net8.0\Glow External.pdb
+C:\Users\joshd\source\repos\Glow External\obj\Debug\net8.0\Glow External.genruntimeconfig.cache
+C:\Users\joshd\source\repos\Glow External\obj\Debug\net8.0\ref\Glow External.dll

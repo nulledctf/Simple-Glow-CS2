@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jGXd4RBiRjgxaKZqANmjJ1FsSlz6RfD0pMtzfz3z6K5bD3NL8WnU2b6CfWMD3u5g9t8nmeh+mH7b1gF0V7dd+Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\joshd\\source\\repos\\Glow External\\Glow External.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\joshd\\.nuget\\packages\\swed64\\1.0.5\\swed64.1.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
